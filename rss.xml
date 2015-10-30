@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Librarian]]></title>
+        <description><![CDATA[Librarian]]></description>
+        <link>https://thegrid.ai/librarian/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Oct 2015 15:55:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/librarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid]]></title>
+            <description><![CDATA[<article><h1>The Grid</h1><p>THE GRID</p></article>]]></description>
+            <link>https://thegrid.ai/librarian/the-grid/index.html</link>
+            <guid isPermaLink="false">d12dcd1a-6c7f-4dbf-8f3d-a63852a43ce2</guid>
+            <pubDate>Fri, 30 Oct 2015 15:55:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
