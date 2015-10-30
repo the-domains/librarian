@@ -2,6 +2,7 @@ name: Librarian
 favicon: null
 layout_spectrum: 0.2841975905466825
 typography_spectrum: 0.5659921537153423
+title: Librarian
 cta:
   domain: null
   bucket: null
